@@ -13,7 +13,7 @@
 
 **Skills** _Problem Solving, Analytical thinking, Communication, Team Work, Quick Learner, Front End Development using React, html, css, Back End Development using Node.js, SQL 
 
-Take a look at my recent developed full stack, React, vanilla javascript and html5 and css3 projects respectively 👇
+Take a look at my recently developed React, full stack, vanilla javascript and html5 and css3 projects respectively 👇
 
 <!--
 **Anza-Azam/Anza-Azam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
