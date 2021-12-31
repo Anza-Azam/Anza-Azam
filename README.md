@@ -11,9 +11,10 @@
 2. ❤️ Researching
 3. :heart: Learning
 
-## **Skills** _Problem Solving, Analytical thinking, Communication, Team Work, Quick Learner, Front End Development using React, html, css, Back End Development using Node.js, SQL_
+### **Skills**     
+_Problem Solving, Analytical thinking, Communication, Team Work, Quick Learner, Front End Development using React, html, css, Back End Development using Node.js, SQL_
 
-#### Take a look at my recently developed React, full stack, vanilla javascript and html5 and css3 projects respectively 👇
+### Take a look at my recently developed React, full stack, vanilla javascript and html5 and css3 projects respectively 👇
 
 <!--
 **Anza-Azam/Anza-Azam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
