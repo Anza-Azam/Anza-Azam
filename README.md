@@ -3,14 +3,14 @@
 #### Full Stack Web Developer
 
 
- -🔭 I’m Personal Project using Full Stack 
- -🌱 I’m currently learning C#.Net 
- -👯 I’m looking to collaborate on Full stack Projects
- -🤔 I’m looking for help with entry level software developer job
- -💬 Ask me about my experience and goals
- -📫 How to reach me: anzaazam.nw4@gmail.com
- -😄 Pronouns: She,Her
- -⚡ Fun fact: can handle anything and everything
+ 🔭 I’m Personal Project using Full Stack 
+ 🌱 I’m currently learning C#.Net 
+ 👯 I’m looking to collaborate on Full stack Projects
+ 🤔 I’m looking for help with entry level software developer job
+ 💬 Ask me about my experience and goals
+ 📫 How to reach me: anzaazam.nw4@gmail.com
+ 😄 Pronouns: She,Her
+ ⚡ Fun fact: can handle anything and everything
 
 
 
