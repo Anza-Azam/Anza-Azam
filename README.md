@@ -11,7 +11,7 @@
  📫 How to reach me: anzaazam.nw4@gmail.com
  😄 Pronouns: She,Her
  ⚡ Fun fact: can handle anything and everything
-
+ ✔ Right to work in the UK: Yes
 
 
 ![I love coding](https://miro.medium.com/max/3680/1*1zgWFU3ZIYbmhlCUwiMmLw.png)
