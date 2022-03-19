@@ -4,7 +4,7 @@
 
 
  🔭 I’m currently developing personal project using Full Stack 
- 🌱 I’m currently learning C#.Net 
+ 🌱 I’m currently learning C#.Net & Python
  👯 I’m looking to collaborate on Full stack Projects
  🤔 I’m looking for help with entry level software developer job
  💬 Ask me about my experience and goals
